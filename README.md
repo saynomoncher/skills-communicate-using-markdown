@@ -1,3 +1,8 @@
+# <pre>
+``` javascript
+var myVar = "Hello, world!";
+```
+</pre>
 <header>
 
 <!--
@@ -13,11 +18,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
-<!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
+--> I acknowledge the previous step
 
 ## Step 3: Add a code example
 
